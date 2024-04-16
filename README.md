@@ -1,5 +1,3 @@
-## Página 01
-![Imagem 01](Images/img1.jpg)
+## Resultado
+![Imagem 01](Images/img1.png)
 
-## Página 02
-![Imagem 02](Images/img2.jpg)
