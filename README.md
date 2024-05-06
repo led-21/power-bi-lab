@@ -1,8 +1,8 @@
-# Lab I
+# Desafio Criando um Relatório de Vendas Elegante com Power BI
 ## Resultado
 ![Imagem 01](Images/img01.png)
 
-# Lab II
+# Desafio Processando e Transformando Dados com Power BI
 ## 
 
 ### Criar Banco de Dados
