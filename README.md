@@ -3,7 +3,6 @@
 ![Imagem 01](Images/img01.png)
 
 # Desafio Processando e Transformando Dados com Power BI
-## 
 
 ### Criar Banco de Dados
 ```
