@@ -139,3 +139,8 @@ insert into works_on values (123456789, 1, 32.5),
                             (987654321, 30, 20.0),
                             (987654321, 20, 15.0),
                             (888665555, 20, 0.0);
+```
+
+### Exibição do Modelo no Power BI
+
+![Imagem 01 Projeto II](Images/img01-p2.png)
