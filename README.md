@@ -5,7 +5,7 @@
 # Lab II
 ## 
 
-### Criar Bando de Dados
+### Criar Banco de Dados
 ```
 CREATE DATABASE azure_company
 ```
