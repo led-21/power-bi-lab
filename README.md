@@ -4,12 +4,12 @@
 
 # Desafio Processando e Transformando Dados com Power BI
 
-### Criar Banco de Dados
+### Criando Banco de Dados
 ```
 CREATE DATABASE azure_company
 ```
 
-### Criar Tabelas
+### Criando Tabelas
 ```
 USE azure_company
 
@@ -83,7 +83,7 @@ CREATE TABLE dependent (
 );
 ```
 
-### Inserir Dados nas Tabelas
+### Inserindo Dados nas Tabelas
 
 ```
 use azure_company
